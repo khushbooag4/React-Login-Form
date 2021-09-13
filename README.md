@@ -1,7 +1,7 @@
 # React-Login-Form
 - This is Multi - Step Login Form 
-- First Step : - It will take the User personal Details firstName,lastName,Email,address
-- Second Step: -It will take upp more professional details like occupation,experience,city.
+- First Step : - It will take the User personal Details firstName, lastName, Email, Address
+- Second Step: -It will take upp more professional details like Occupation, Experience, City.
 - Third Step: - It shows up the saved value to preview
 - Form is Sucessful Submitted
 
