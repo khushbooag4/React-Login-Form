@@ -8,4 +8,4 @@
 Future Scope 
 - Can payment method to login for any particular 
 - Getting sync with email. Form Successfully Submitted message should be send to the user
-- Can use animation on sucessfully completing the form fot user engagement 
+- Can use animation on sucessfully completing the form for user engagement 
